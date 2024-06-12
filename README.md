@@ -2,4 +2,4 @@
 
 
 # KestrelEye
-KestrelEye is an OSINT hobby project which combines the selective tools for OSINT investigation. This project still under development with expected Alpha release on November 2024.
+KestrelEye is an OSINT hobby project which combines the selective tools for OSINT investigation. This project still under development with expected Alpha release on November 2025.
